@@ -1,0 +1,1 @@
+This folder contains bash scripts, starting with basic to advanced scripts.

@@ -1,0 +1,1 @@
+This folder documnets linux basics such as commands, file systems, and permissions.
